@@ -1,14 +1,20 @@
 [
   {
-    "name": "Build a Better Investing Routine with These Four Steps",
-    "url": "https://www.theglobeandmail.com/investing/adv/article-how-trusted-education-is-empowering-diy-investors/",
-    "source": "The Globe and Mail",
-    "category": "Investing"
-  }
+    "id": 1,
+    "title": "How trusted education is empowering DIY investors",
+    "excerpt": "Canadians are joining the do-it-yourself (DIY) revolution, and there has never been a better time to be a DIY investor, with wide access to discount brokerages and an expanding universe of educational resources.",
+    "author": "Globe Content Studio",
+    "image": "https://www.theglobeandmail.com/resizer/v2/SAJJW7SWHNENFFVKO6ACF3YKWU.jpg?auth=a9142d1b2612cb2eac7ebc1e2134316f0bd02f8b8ac1f6c5e5fd02150f38c49e&width=1200&quality=80",
+    "url": "https://www.theglobeandmail.com/investing/adv/article-how-trusted-education-is-empowering-diy-investors/"
+    "publishedDate": "2025-11-24"
+  },
   {
-    "name": "Build a Better Investing Routine with These Four Steps",
-    "url": "https://www.theglobeandmail.com/investing/adv/article-build-a-better-investing-routine-with-these-four-steps/",
-    "source": "The Globe and Mail",
-    "category": "Investing"
+    "id": 2,
+    "title": "Build a better investing routine with these four steps",
+    "excerpt": "The biggest barrier to investing isn’t always money, sometimes it’s a perception that the process is complex. But it doesn’t have to feel intimidating, says Caitlin Cormier, a senior client education instructor at TD Direct Investing.",
+    "author": "Globe Content Studio",
+    "image": "https://www.theglobeandmail.com/resizer/v2/OXWVBOIQFZFQPC3BHXZBM76GGY.jpg?auth=6f0fe2bfc5e4a89c622dd97755d66064c34b603da0d081e197b20cdef5aed1ab&width=1200&quality=80",
+    "url": "https://www.theglobeandmail.com/investing/adv/article-build-a-better-investing-routine-with-these-four-steps/"
+    "publishedDate": "2026-2-18"
   }
 ]
