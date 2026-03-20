@@ -1,46 +1,49 @@
-[
-  {
-    "id": 1,
-    "title": "You want to invest on your own. But can you still get advice?",
-    "excerpt": "Do-it-yourself investing has plenty of benefits. It’s low cost and gives you total control over your accounts. It also leaves you responsible for making your own investing decisions, which can feel daunting.",
-    "author": "Anita Bruinsma",
-    "image": "https://www.theglobeandmail.com/resizer/v2/2Z3F646O75DJHIJYDEYIMO2CMQ.jpg?auth=ad82f4b22dcd69052723c76bbec0c8aac3178b0b1e713c2feb5c8b1a6ed05c16&width=1200&quality=80",
-    "url": "https://www.theglobeandmail.com/investing/personal-finance/article-diy-investing-financial-planning-retirement-fee-only-advisers/",
-    "source": "The Globe and Mail",
-    "category": "evergreen",
-    "publishedDate": "2025-10-19"
-  },
-  {
-    "id": 2,
-    "title": "Seven ways to prepare for the next stock-market crash, which could be nasty",
-    "excerpt": "Every cell in your brain will scream for you to do something when the stock market crashes next time. But smart investing decisions are never made under stressful conditions. The time to prepare a portfolio for rough times is when things are awesome, such as now.",
-    "author": "Rob Carrick",
-    "image": "https://www.theglobeandmail.com/resizer/v2/FRZ25TU45JCO3NL5LIXHEQZTGM.jpg?auth=ad79bca92c4b0b4672aa6a5037f728073477902905b6926611b88e7d592e4502&width=1200&quality=80",
-    "url": "https://www.theglobeandmail.com/investing/personal-finance/article-tips-prepare-stock-market-crash/",
-    "source": "The Globe and Mail",
-    "category": "evergreen",
-    "publishedDate": "2025-10-14"
-  },
-  {
-    "id": 3,
-    "title": "The 2025 Globe and Mail Digital Brokerage Ranking: Improvements all around, but a clear winner emerges",
-    "excerpt": "A better way to buy stocks and exchange-traded funds is at your disposal if you’re a client of Canada’s best digital broker.",
-    "author": "Rob Carrick",
-    "image": "",
-    "url": "https://www.theglobeandmail.com/investing/personal-finance/article-the-2025-globe-and-mail-digital-brokerage-ranking-improvements-all/",
-    "source": "The Globe and Mail",
-    "category": "evergreen",
-    "publishedDate": "2025-02-13"
-  },
-  {
-    "id": 4,
-    "title": "Down on dividend investing? Here’s why you shouldn’t be",
-    "excerpt": "I hope you’re sitting down, because I have some shocking news to share: Not everyone loves dividends. I know, crazy, right? Who could possibly be against receiving regular cash payments for doing absolutely nothing to earn them?",
-    "author": "John Heinzl",
-    "image": "https://www.theglobeandmail.com/resizer/v2/DNZJPN47URHL3IF2FOYBZ3J3XM.jpg?auth=7a7c61c3578835b40a574a73487e58cbaf718ffbf82bdcbf7ff8c24782ef31e9&width=1200&quality=80",
-    "url": "https://www.theglobeandmail.com/investing/education/article-dividend-investing-strategy/",
-    "source": "The Globe and Mail",
-    "category": "evergreen",
-    "publishedDate": "2025-07-25"
-  }
-]
+{
+  "feedTitle": "Build Your Knowledge",
+  "articles": [
+    {
+      "id": 1,
+      "title": "You want to invest on your own. But can you still get advice?",
+      "excerpt": "Do-it-yourself investing has plenty of benefits. It’s low cost and gives you total control over your accounts. It also leaves you responsible for making your own investing decisions, which can feel daunting.",
+      "author": "Anita Bruinsma",
+      "image": "https://www.theglobeandmail.com/resizer/v2/2Z3F646O75DJHIJYDEYIMO2CMQ.jpg?auth=ad82f4b22dcd69052723c76bbec0c8aac3178b0b1e713c2feb5c8b1a6ed05c16&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-diy-investing-financial-planning-retirement-fee-only-advisers/",
+      "source": "The Globe and Mail",
+      "category": "evergreen",
+      "publishedDate": "2025-10-19"
+    },
+    {
+      "id": 2,
+      "title": "Seven ways to prepare for the next stock-market crash, which could be nasty",
+      "excerpt": "Every cell in your brain will scream for you to do something when the stock market crashes next time. But smart investing decisions are never made under stressful conditions. The time to prepare a portfolio for rough times is when things are awesome, such as now.",
+      "author": "Rob Carrick",
+      "image": "https://www.theglobeandmail.com/resizer/v2/FRZ25TU45JCO3NL5LIXHEQZTGM.jpg?auth=ad79bca92c4b0b4672aa6a5037f728073477902905b6926611b88e7d592e4502&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-tips-prepare-stock-market-crash/",
+      "source": "The Globe and Mail",
+      "category": "evergreen",
+      "publishedDate": "2025-10-14"
+    },
+    {
+      "id": 3,
+      "title": "The 2025 Globe and Mail Digital Brokerage Ranking: Improvements all around, but a clear winner emerges",
+      "excerpt": "A better way to buy stocks and exchange-traded funds is at your disposal if you’re a client of Canada’s best digital broker.",
+      "author": "Rob Carrick",
+      "image": "",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-the-2025-globe-and-mail-digital-brokerage-ranking-improvements-all/",
+      "source": "The Globe and Mail",
+      "category": "evergreen",
+      "publishedDate": "2025-02-13"
+    },
+    {
+      "id": 4,
+      "title": "Down on dividend investing? Here’s why you shouldn’t be",
+      "excerpt": "I hope you’re sitting down, because I have some shocking news to share: Not everyone loves dividends. I know, crazy, right? Who could possibly be against receiving regular cash payments for doing absolutely nothing to earn them?",
+      "author": "John Heinzl",
+      "image": "https://www.theglobeandmail.com/resizer/v2/DNZJPN47URHL3IF2FOYBZ3J3XM.jpg?auth=7a7c61c3578835b40a574a73487e58cbaf718ffbf82bdcbf7ff8c24782ef31e9&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/investing/education/article-dividend-investing-strategy/",
+      "source": "The Globe and Mail",
+      "category": "evergreen",
+      "publishedDate": "2025-07-25"
+    }
+  ]
+}
