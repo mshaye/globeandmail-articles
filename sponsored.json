@@ -3,6 +3,15 @@
   "articles": [
     {
       "id": 1,
+      "title": "TD - Direct Investing webcast. The New Investor Playbook - Setting up your financial future.",
+      "excerpt": "Ready to take charge of your money and build a future on your own terms? Join The Globe and Mail on March 11th for a webcast designed for new investors who want to learn how to invest confidently.",
+      "author": "Globe Content Studio",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Ftgam%2F8ee081be-24c2-4568-98c4-284065561e5b.png?auth=74133c3a5cf7f80c12bd7dd016549c2c54313ca26dbae1e2e17b7c2f8115d777&width=900&height=600&quality=80&smart=true",
+      "url": "https://youtu.be/pShvk1LjHCk?si=PHN2Sbu6FQ3m4Yeq",
+      "publishedDate": "2026-03-11"
+    },
+    {
+      "id": 2,
       "title": "How trusted education is empowering DIY investors",
       "excerpt": "Canadians are joining the do-it-yourself (DIY) revolution, and there has never been a better time to be a DIY investor, with wide access to discount brokerages and an expanding universe of educational resources.",
       "author": "Globe Content Studio",
@@ -11,7 +20,7 @@
       "publishedDate": "2025-11-24"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Build a better investing routine with these four steps",
       "excerpt": "The biggest barrier to investing isn’t always money, sometimes it’s a perception that the process is complex. But it doesn’t have to feel intimidating, says Caitlin Cormier, a senior client education instructor at TD Direct Investing.",
       "author": "Globe Content Studio",
