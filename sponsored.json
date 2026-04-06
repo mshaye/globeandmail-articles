@@ -3,6 +3,15 @@
   "articles": [
     {
       "id": 1,
+      "title": "Four questions for picking the best DIY brokerage",
+      "excerpt": "Making their own investment choices isn’t the only decision do-it-yourself (DIY) investors face. Selecting the right broker is critical too.",
+      "author": "Globe Content Studio",
+      "image": "https://www.theglobeandmail.com/resizer/v2/HESVIWES2VDDZLD2GETRFEIS2E.jpg?auth=16f44f70bb4baf85d06975b83cb1ae24834f4c6226a99fc35260a82999475384&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/investing/adv/article-four-questions-for-picking-the-best-diy-brokerage/",
+      "publishedDate": "2026-04-06"
+    },
+    {
+      "id": 2,
       "title": "TD - Direct Investing webcast. The New Investor Playbook - Setting up your financial future.",
       "excerpt": "Ready to take charge of your money and build a future on your own terms? Join The Globe and Mail on March 11th for a webcast designed for new investors who want to learn how to invest confidently.",
       "author": "Globe Content Studio",
@@ -11,7 +20,7 @@
       "publishedDate": "2026-03-11"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "How trusted education is empowering DIY investors",
       "excerpt": "Canadians are joining the do-it-yourself (DIY) revolution, and there has never been a better time to be a DIY investor, with wide access to discount brokerages and an expanding universe of educational resources.",
       "author": "Globe Content Studio",
@@ -20,7 +29,7 @@
       "publishedDate": "2025-11-24"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Build a better investing routine with these four steps",
       "excerpt": "The biggest barrier to investing isn’t always money, sometimes it’s a perception that the process is complex. But it doesn’t have to feel intimidating, says Caitlin Cormier, a senior client education instructor at TD Direct Investing.",
       "author": "Globe Content Studio",
