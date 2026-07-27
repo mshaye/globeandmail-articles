@@ -1,1 +1,14 @@
-
+{
+  "feedTitle": "Sponsor Content from CIBC",
+  "articles": [
+    {
+      "id": 1,
+      "title": "How to invest in three simple steps",
+      "excerpt": "When you’re new to online investing, it can feel intimidating to get started. But Luka Marjanovic, managing director and head of CIBC Investor’s Edge, says it’s not as difficult as it might seem.",
+      "author": "Globe Content Studio",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ABIIIST43RA75AJ4YQNFNEIBPQ.jpg?auth=f34c25e37a116e94e0925414822b2a95f68591f4c0e5fba8c8644adba330b279&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/business/adv/article-how-to-invest-in-three-simple-steps/",
+      "publishedDate": "2026-07-27"
+    }
+  ]
+}
