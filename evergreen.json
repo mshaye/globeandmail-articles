@@ -1,1 +1,38 @@
-
+{
+  "feedTitle": "Build Your Knowledge",
+  "articles": [
+    {
+      "id": 1,
+      "title": "Complex OAS residency rules key to court decision leaving retiree with benefit cut almost in half",
+      "excerpt": "The residency rules for claiming Old Age Security are essential to determining whether someone receives a full or partial OAS pension at retirement, or whether they receive it at all.",
+      "author": "Rudy Mezzetta",
+      "image": "https://www.theglobeandmail.com/resizer/v2/P4LWKU2JHRCSLF3OVNOFYQPCCY.jpg?auth=ac83a0019e91d566c95925e9ebdc76fcd08a51145beccaeb2ed5e681f412c4bb&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-complex-oas-residency-rules-key-to-court-decision-leaving-retiree-with/",
+      "source": "The Globe and Mail",
+      "category": "evergreen",
+      "publishedDate": "2026-06-17"
+    },
+    {
+      "id": 2,
+      "title": "The 4% withdrawal rule for retirees is dead. Long live the 4.7% rule",
+      "excerpt": "My husband and I started working in 2006, invested enough to retire in 2015, and have been living the financial independence retire early (FIRE) life for the past decade.",
+      "author": "Kristy Shen",
+      "image": "https://www.theglobeandmail.com/resizer/v2/RGBMOD2VZBAAFKY7ML4U5VOIWU.jpg?auth=aa5d4f802dfa39b6c46b345880fb7723f554d543977361a4cc3d552a72cc54ae&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/retirement/article-4-withdrawal-rule-retirees-dead-fire/",
+      "source": "The Globe and Mail",
+      "category": "evergreen",
+      "publishedDate": "2026-07-03"
+    },
+    {
+      "id": 3,
+      "title": "What it’s like to retire in an era of high inflation",
+      "excerpt": "The cliché of the poor senior on a fixed income is way overdone. But inflation does bite hard when you’re retired.",
+      "author": "Rob Carrick",
+      "image": "https://www.theglobeandmail.com/resizer/v2/3BFQQOJPAFH5XDEDLAUYH3APIA.jpg?auth=b6fd8f3ba63d0b968568042d7b19202a057e967745ad2f2dd66b07e3e70e3e8e&width=1200&quality=80",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-retiring-in-an-era-of-high-inflation-costs/",
+      "source": "The Globe and Mail",
+      "category": "evergreen",
+      "publishedDate": "2026-07-27"
+    }
+  ]
+}
